@@ -1,7 +1,4 @@
-<!-- layout: page
-title: "cv"
-permalink: /cv/
- -->
+
 
 # 个人简历
 
