@@ -49,12 +49,13 @@
 6. **罗超**; 楼梦麟, 岩石河谷场地地震动场分布特点, 第六届全国水工抗震防灾学术交流会, 北京, 中国. 2017.10.11-2017.10.14.[PDF](http://67.219.110.29//wp-content/uploads/2018/07/岩石河谷场地地震动场分布特点.pdf)
 7. Boris Jeremić, José A. Abell, Yuan Feng, Maxime Lacour, Han Yang, Fatemah Behbehani, Sumeet Kumar Sinha, Hexiang Wang, David Mccallen, **Chao Luo**, Verification for the Real ESSI Simulator, The 21st Structural Mechanics in Reactor Technology (SMiRT) Conference, Busan, 2017.8.20-2017.8.25.[PDF](http://67.219.110.29//wp-content/uploads/2018/07/Verification-for-the-Real-ESSI-Simulator.pdf)
 8. Nebojsa Orbovic, Boris Jeremić, José A. Abell, **Chao Luo**, Robert P. Kennedy, Andrei Blahoianu, USE OF NONLINEAR, TIME DOMAIN ANALYSIS FOR NPP DESIGN, Mechanics in Reactor Technology (SMiRT) 2015 Conference, Manchester, 2015.10.10-2015.10.14.[PDF](http://67.219.110.29//wp-content/uploads/2018/07/USE-OF-NONLINEAR-TIME-DOMAIN-ANALYSIS-FOR-NPP-DESIGN.pdf)
+
 ## 会议报告
 1. **罗超**. 土层半无限空间有限化建模中人工边界合理位置的讨论. 第十届全国地震工程会议. 上海, 中国, 2018.08.22-2018.08.25.[PDF](http://67.219.110.29//wp-content/uploads/2019/02/罗超-第十届全国地震工程会议-报告.pdf)
 2. **罗超**. 局部地形对复杂地震动场的影响分析. 第264场中国工程院科技论坛暨第十届全国防震减灾工程学术研讨会. 成都, 中国, 2018.05.10-2018.05.13.[PDF](http://67.219.110.29//wp-content/uploads/2018/07/局部地形对复杂地震动场的影响分析.pdf)
 3. **罗超**. 岩石河谷场地地震动场分布特点. 第六届全国水工抗震防灾学术交流会, 北京, 中国. 2017.10.11-2017.10.14.
-## 教学
 
+## 教学
 1. 河北省高等教育教学改革研究与实践项目：新工科背景下国际工程人才培养体系建设深化研究。(排名第6)
 2. 河北省来华留学英语授课品牌课程：国际土木工程施工信息化技术。(主讲人，排名第2)
 
