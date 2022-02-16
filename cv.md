@@ -37,7 +37,7 @@
 5. **罗超**, 楼梦麟*, 桂国庆. 确定大跨连续刚构桥地震动输入时程方法比较[J]. 岩土力学. 2014, Vol.35 (z1): 414-422.[PDF](http://67.219.110.29/wp-content/uploads/2018/07/确定大跨连续刚构桥地震动输入时程方法比较_罗超.pdf)
 6. **罗超**, 楼梦麟*. 实体单元与梁单元间连接的若干问题讨论. 建筑技术, 2011, Vol.42 (z1):149-153.[PDF](http://67.219.110.29/wp-content/uploads/2018/07/实体单元与梁单元间连接的若干问题讨论.pdf)
 7. Yunyi Li, **Chao Luo**, Jian-Min Zhang, Fang Liu, Rui Wang, Rayleigh Wave-Shear Wave Coupling Mechanism for Large Lateral Deformation in Level Liquefiable Ground, Computers and Geotechnics, 2022, 143, 104631. https://doi.org/10.1016/j.compgeo.2022.104631. [PDF](https://www.researchgate.net/profile/Rui-Wang-297/publication/357756763_Rayleigh_Wave-Shear_Wave_Coupling_Mechanism_for_Large_Lateral_Deformation_in_Level_Liquefiable_Ground/links/61de82724e4aff4a643608b3/Rayleigh-Wave-Shear-Wave-Coupling-Mechanism-for-Large-Lateral-Deformation-in-Level-Liquefiable-Ground.pdf)
-8. Yu Tang, Dawei Ren, Hui Qin*, and **Chao Luo**, New Family of Explicit Structure-Dependent Integration Algorithms with Controllable Numerical Dispersion. Journal of Engineering Mechanics, 2021. 147(3): p. 04021001.[PDF](http:/67.219.110.29/wp-content/uploads/1609/39/J-2020-JEM_TL_phiTang.pdf)
+8. Yu Tang, Dawei Ren, Hui Qin*, and **Chao Luo**, New Family of Explicit Structure-Dependent Integration Algorithms with Controllable Numerical Dispersion. Journal of Engineering Mechanics, 2021. 147(3): p. 04021001. https://doi.org/10.1061/(ASCE)EM.1943-7889.0001901. [PDF](http:/67.219.110.29/wp-content/uploads/1609/39/J-2020-JEM_TL_phiTang.pdf)
 9. 李雅静, 王 昊*, 王振源, **罗超**. 村镇建筑基础隔震技术研究综述[J], 工程抗震与加固改造, 2021,43(02):88-95+136.
 10. 王昊*,翁大根,**罗超**,宋佳宁.基础隔震结构不确定参数敏感性分析[J]. 地震工程与工程振动,2018,38(04):186-195.[PDF](http://67.219.110.29/wp-content/uploads/2019/09/unnamed-file.pdf)
 
