@@ -4,11 +4,11 @@
 
 [罗超](https://www.chaocompute.com/cv)，工学博士，石家庄铁道大学讲师，主要从事工程结构抗震，地面运动等相关工作，近年主要开展震源-场址-结构地震动模拟和结构系统韧性评价，先后主持省部级项目3项，国家重点实验室自主课题1项，参与国家自然科学基金、国家重点研发计划项目多项，发表论文SCI、EI等论文十余篇；目前指导硕士研究生5名。
 
-联系方式：[luochao@stdu.edu.cn](luochao@stdu.edu.cn)。
+联系方式：luochao@stdu.edu.cn。
 
 [王昊](https://yjs.stdu.edu.cn/supervisor?code=020180108)，博士，石家庄铁道大学讲师。2017年于同济大学获得博士学位，University of California, Berkeley 联合培养博士。主要从事隔震及消能减震结构体系分析与工程实践、工程结构地震风险评估及抗震韧性评价等研究。目前主持河北省重点研发项目1项，河北省自然科学基金青年1项，河北省引进留学人员资助项目1项，国家重点实验室自主课题1项，发表SCI、EI等论文十余篇。
 
-联系方式：[wanghao@stdu.edu.cn](wanghao@stdu.edu.cn)。
+联系方式：wanghao@stdu.edu.cn。
 
 ## 2022招生计划
 
